@@ -6,7 +6,7 @@ id omadad
 
 # set default time zone and notify user of time zone
 export TZ
-TZ="${TZ:-Etc/UTC}"
+TZ="${TZ:-America/Phoenix}"
 echo "INFO: Time zone set to '${TZ}'"
 
 # make sure permissions are set appropriately on each directory
