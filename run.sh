@@ -1,5 +1,5 @@
 #!/bin/bash
-version=3.2.10
+version=3.2.10-1
 
 mkdir -p /opt/tplink/$version/OmadaController/data
 mkdir -p /opt/tplink/$version/OmadaController/work
